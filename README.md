@@ -1,3 +1,3 @@
 # brayton-cycle-analysis
 
-# simulazione di un ciclo brayton dal corso di sistemi energetici del polimi
+#simulation of the Brayton Cycle, following the Polimi course of "Sistemi Energetici"
